@@ -1,0 +1,22 @@
+{
+	"name": "how-to-customize-wordpress-things",
+	"version": "1.0.0",
+	"private": true,
+	"description": "This repository has code snippets for the WordPress, WooCommerce and some other Themes & Plugins customization and custom Features development.",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/vijayhardaha/how-to-customize-wordpress-things.git"
+	},
+	"author": "Vijay Hardaha",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/vijayhardaha/how-to-customize-wordpress-things/issues"
+	},
+	"homepage": "https://github.com/vijayhardaha/how-to-customize-wordpress-things#readme",
+	"scripts": {
+		"lint:php": "composer run-script lint",
+		"lint": "npm run lint:php",
+		"lint-fix:php": "composer run-script lint-fix",
+		"lint-fix": "npm run lint-fix:php"
+	}
+}

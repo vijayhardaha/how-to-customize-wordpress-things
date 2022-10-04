@@ -1,0 +1,15 @@
+{
+	"php-docblocker.alignParams": true,
+	"php-docblocker.alignReturn": true,
+	"php-docblocker.gap": true,
+	"php-docblocker.returnVoid": true,
+	"php-docblocker.useShortNames": true,
+	"php-docblocker.varDescription": false,
+	"php-docblocker.returnDescription": true,
+	"php-docblocker.returnGap": true,
+	"php-docblocker.paramDescription": true,
+	"php-docblocker.extra": [
+		"",
+		"@author Vijay Hardaha <https://pph.me/vijayhardaha>"
+	]
+}

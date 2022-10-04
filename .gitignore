@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Composer
+vendor/
+
+# Lock files
+composer.lock
+package-lock.json
